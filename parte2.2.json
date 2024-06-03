@@ -1,0 +1,26 @@
+{
+    "course": "Nome do Curso",
+    "unidadesCurriculares": [
+      {
+        "nome": "Programação Web",
+        "codigo": "30329",
+        "docentes": [
+          {
+            "nome": "Diogo Costa",
+            "areaEspecializacao": "ERSC"
+          },
+        ]
+      },
+      {
+        "nome": "Redes de Computadores",
+        "codigo": "RC202",
+        "docentes": [
+          {
+            "nome": "António Lira Fernandes",
+            "areaEspecializacao": "Programaçao Web"
+          },
+        ]
+      }
+    ]
+  }
+  

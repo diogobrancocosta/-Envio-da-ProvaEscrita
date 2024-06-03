@@ -1,0 +1,25 @@
+<curso>
+  <nome>Nome do Curso</nome>
+  <unidadesCurriculares>
+    <unidadeCurricular>
+      <nome>Programação Web</nome>
+      <codigo>30329</codigo>
+      <docentes>
+        <docente>
+          <nome>Diogo Costa</nome>
+          <areaEspecializacao>ERSC</areaEspecializacao>
+        </docente>
+      </docentes>
+    </unidadeCurricular>
+    <unidadeCurricular>
+      <nome>Redes de Computadores</nome>
+      <codigo>RC202</codigo>
+      <docentes>
+        <docente>
+          <nome>António Lira Fernandes</nome>
+          <areaEspecializacao>Programaçao Web</areaEspecializacao>
+        </docente>
+      </docentes>
+    </unidadeCurricular>
+  </unidadesCurriculares>
+</curso>
